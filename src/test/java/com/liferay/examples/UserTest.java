@@ -16,4 +16,17 @@ public class UserTest {
         assertEquals("test", user.getPassword());
     }
 
+    @Test
+    public void testUpdateUser() {
+        User user = new User("test@liferay.com", "test");
+
+        user.setEmailAddress("userea@liferay.com");
+
+        user.setPassword("password");
+
+        assertEquals("userea@liferay.com", user.getEmailAddress());
+
+        assertEquals("password", user.getPassword());
+    }
+
 }
