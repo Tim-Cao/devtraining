@@ -5,7 +5,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class UserTest {
+public class ConstructorTest {
 
     @Test
     public void testAddUser() {
