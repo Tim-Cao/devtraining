@@ -3,7 +3,7 @@ package com.liferay.model;
 public class User {
     public User(String emailAddress, String password) {
         this.emailAddress = emailAddress;
-        this.password = password;
+        setPassword(password);
     }
 
     public String getEmailAddress() {
@@ -19,6 +19,10 @@ public class User {
     }
 
     public void setPassword(String password) {
+        if (password.length() < 4) {
+            throw new IllegalArgumentException("The length of password must be longer than 4 chars");
+        }
+
         this.password = password;
     }
 
