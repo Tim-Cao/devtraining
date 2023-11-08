@@ -1,12 +1,14 @@
 package com.liferay.examples;
 
 import org.junit.Test;
+
 import static org.junit.Assert.assertEquals;
+
 public class MyFirstTest {
 
     @Test
     public void testTwoPlusTwo() {
-        int answer = 2+2;
+        int answer = 2 + 2;
 
         assertEquals("2+2=4", 4, answer);
     }
