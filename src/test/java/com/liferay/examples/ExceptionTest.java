@@ -13,4 +13,5 @@ public class ExceptionTest {
 
         assertNull(user);
     }
+
 }

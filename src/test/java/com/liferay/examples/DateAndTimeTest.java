@@ -19,4 +19,5 @@ public class DateAndTimeTest {
 
         assertEquals("Jan/01/1970 08:00", simpleDateFormat.format(date));
     }
+
 }
