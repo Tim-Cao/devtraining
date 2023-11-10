@@ -8,6 +8,7 @@ public class AnnotationsTest {
     public static void setUpClass() throws Exception {
         System.out.println("Run once, before any @Test methods are run");
     }
+
     @Before
     public void setUp() {
         System.out.println(" Run before each @Test method");
@@ -17,6 +18,7 @@ public class AnnotationsTest {
     public void testHelloWorld() {
         System.out.println("Hello World");
     }
+
     @Test
     public void testWelcomeToLiferay() {
         System.out.println("Welcome to Liferay");

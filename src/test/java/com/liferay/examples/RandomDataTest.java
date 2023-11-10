@@ -15,4 +15,5 @@ public class RandomDataTest {
         assertEquals(10, password.length());
         assertTrue(password.matches("^[A-Za-z0-9]+$"));
     }
+
 }

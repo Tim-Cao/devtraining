@@ -20,4 +20,5 @@ public class ArrayTest {
         assertEquals("Tuesday", workdays[3]);
         assertEquals("Wednesday", workdays[4]);
     }
+
 }

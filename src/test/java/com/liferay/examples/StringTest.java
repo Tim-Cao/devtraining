@@ -18,4 +18,5 @@ public class StringTest {
 
         assertEquals("> 1 + 2 = 3", sb.toString());
     }
+
 }
