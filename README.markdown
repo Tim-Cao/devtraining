@@ -16,4 +16,4 @@ We hope the following guides could help our QA members learn basic JUnit tests.
 
 1. [JUnit Test Examples](docs/junit/examples)
 
-1. [JUnit Test Exercise](docs/junit/exercises)
+1. [JUnit Test Exercises](docs/junit/exercises)
