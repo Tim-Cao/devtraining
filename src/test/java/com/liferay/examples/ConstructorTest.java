@@ -3,7 +3,7 @@ package com.liferay.examples;
 import com.liferay.model.User;
 import org.junit.Test;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.*;
 
 public class ConstructorTest {
 
