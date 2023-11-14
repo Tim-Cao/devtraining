@@ -6,6 +6,8 @@ We hope the following guides could help our QA members learn basic JUnit tests.
 
 ## Guides
 
+1. [Integration Tests vs UI Tests](docs/junit/integration-tests-vs-ui-tests)
+
 1. [JUnit Annotations](docs/junit/annotations)
 
 1. [JUnit Assertions](docs/junit/annotations)
