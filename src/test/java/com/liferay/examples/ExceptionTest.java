@@ -3,7 +3,7 @@ package com.liferay.examples;
 import com.liferay.model.User;
 import org.junit.Test;
 
-import static org.junit.Assert.assertNull;
+import static org.junit.Assert.*;
 
 public class ExceptionTest {
 
