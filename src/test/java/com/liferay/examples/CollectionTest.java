@@ -8,6 +8,7 @@ import java.util.List;
 import static org.junit.Assert.*;
 
 public class CollectionTest {
+
     @Test
     public void testRemoveElementByIndex() {
         List<String> workdays = new ArrayList<String>();

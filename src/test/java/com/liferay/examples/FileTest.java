@@ -8,6 +8,7 @@ import java.io.IOException;
 import static org.junit.Assert.*;
 
 public class FileTest {
+
     @Test
     public void testAddFileAndDelete() throws IOException {
         File file = new File(System.getProperty("user.dir") + "temp.text");
