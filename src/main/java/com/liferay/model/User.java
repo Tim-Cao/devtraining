@@ -6,8 +6,16 @@ public class User {
         setPassword(password);
     }
 
+    public void addUserGroupUser(long groupId) {
+        this.groupId = groupId;
+    }
+
     public String getEmailAddress() {
         return emailAddress;
+    }
+
+    public long getGroupId() {
+        return groupId;
     }
 
     public String getPassword() {
@@ -27,6 +35,9 @@ public class User {
     }
 
     private String emailAddress;
+
+    private long groupId;
+
     private String password;
 
 }
