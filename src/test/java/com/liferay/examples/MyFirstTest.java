@@ -4,6 +4,9 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
+/**
+ * In this test class you will learn how to run JUnit tests.
+ */
 public class MyFirstTest {
 
     @Test

@@ -7,6 +7,9 @@ import java.io.IOException;
 
 import static org.junit.Assert.*;
 
+/**
+ * In this test class you will learn how to use the File handling class.
+ */
 public class FileTest {
 
     @Test
