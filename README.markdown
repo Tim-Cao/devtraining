@@ -10,7 +10,7 @@ We hope the following guides could help our QA members learn basic JUnit tests.
 
 1. [JUnit Annotations](docs/junit/annotations)
 
-1. [JUnit Assertions](docs/junit/annotations)
+1. [JUnit Assertions](docs/junit/assertions)
 
 1. [JUnit Test Naming Convention](docs/junit/naming-convention)
 
