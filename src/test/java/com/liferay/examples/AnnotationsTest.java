@@ -2,6 +2,9 @@ package com.liferay.examples;
 
 import org.junit.*;
 
+/**
+ * In this test class you will learn how to use the JUnit assertions.
+ */
 public class AnnotationsTest {
 
     @BeforeClass

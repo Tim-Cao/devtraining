@@ -7,6 +7,9 @@ import java.util.Date;
 
 import static org.junit.Assert.*;
 
+/**
+ * In this test class you will learn how to format date and time.
+ */
 public class DateAndTimeTest {
 
     @Test

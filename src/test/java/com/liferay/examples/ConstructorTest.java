@@ -7,6 +7,9 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
+/**
+ * In this test class you will learn how to use the constructor.
+ */
 public class ConstructorTest {
 
     @Test

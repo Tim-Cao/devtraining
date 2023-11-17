@@ -5,6 +5,9 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
+/**
+ * In this test class you will learn how to generate a random string with RandomStringUtils.
+ */
 public class RandomDataTest {
 
     @Test
