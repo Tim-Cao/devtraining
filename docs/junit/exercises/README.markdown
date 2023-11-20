@@ -14,6 +14,8 @@ in the [ExercisesTest](../../../src/test/java/com/liferay/exercises) class under
 
 1. **Exercise: Create an Array of Users**
 
+    1. Using the [***User object***](../../../src/main/java/com/liferay/model/User.java)
+
     1. Create an array containing 3 User objects.
 
     1. Iterate over the array and assert the name of each User.
